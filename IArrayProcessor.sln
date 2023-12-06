@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IArrayProcessor", "IArrayProcessor\IArrayProcessor.csproj", "{F5BB72E6-28A0-4C3C-A0D4-E004058CF82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BB72E6-28A0-4C3C-A0D4-E004058CF82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB72E6-28A0-4C3C-A0D4-E004058CF82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB72E6-28A0-4C3C-A0D4-E004058CF82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB72E6-28A0-4C3C-A0D4-E004058CF82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4B026D-855A-417E-9795-161F8BAC5D67}
+	EndGlobalSection
+EndGlobal
